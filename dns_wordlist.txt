@@ -1,0 +1,6 @@
+www
+mail
+ftp
+dev
+blog
+login
